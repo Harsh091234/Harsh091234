@@ -6,7 +6,7 @@ I’m **Harsh Sharma**, a Bachelor of Computer Applications student at **Maharaj
 
 ## 🛠️ Tech Stacks
 
-# Languages
+#### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
