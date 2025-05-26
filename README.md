@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I’m **Harsh Sharma**, a Bachelor of Computer Applications student at **Maharaja Surajmal Institute**, Delhi. I'm currently focused on learning **web development** and improving my understanding of **data structures and algorithms (DSA)** in **C++**. I have a strong interest in building efficient, user-friendly applications and love exploring new technologies and tools. My goal is to become a skilled full-stack developer by continuously learning and applying my knowledge through hands-on projects. I'm passionate about tech, eager to collaborate on meaningful work, and committed to personal and professional growth in the field of software development.
+I’m **Harsh Sharma**, a Bachelor of Computer Applications student at **Maharaja Surajmal Institute**, Delhi. I'm currently focused on learning **Web Development** and improving my understanding of **Data Structures and Algorithms (DSA)** in **C++**. I have a strong interest in building efficient, user-friendly applications and love exploring new technologies and tools. I'm passionate about tech, eager to collaborate on meaningful work, and committed to personal and professional growth in the field of software development.
 
 ## 🛠️ Tech Stacks
 
