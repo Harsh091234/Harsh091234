@@ -8,6 +8,7 @@ I'm Aspiring Web Developer who loves building web apps and learning new tech.
 - ⚙️ Backend: Node.js, Express
 - 🛢️ Database: MongoDB, MySql
 - ✨ Collaboration: Git, GitHub
+- ➕ Extras: C++
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-sharma-b9932933b/utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
