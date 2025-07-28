@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I’m **Harsh Sharma**, a Bachelor of Computer Applications student at **Maharaja Surajmal Institute**, Delhi. I'm currently focused on learning **Web Development** and improving my understanding of **Data Structures and Algorithms (DSA)** in **C++**. I have a strong interest in building efficient, user-friendly applications and love exploring new technologies and tools. I'm passionate about tech, eager to collaborate on meaningful work, and committed to personal and professional growth in the field of software development.
+I'm Harsh Sharma, a BCA student at Maharaja Surajmal Institute, Delhi, with a focus on Web Development and DSA in C++. I'm passionate about building efficient, user-friendly applications and love exploring new technologies. Eager to learn, grow, and collaborate on impactful projects in software development.
 
 ## 🛠️ Tech Stacks
 
@@ -18,6 +18,8 @@ I’m **Harsh Sharma**, a Bachelor of Computer Applications student at **Maharaj
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-023430?style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
