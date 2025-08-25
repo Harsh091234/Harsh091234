@@ -32,6 +32,10 @@ I'm Harsh Sharma, a BCA student at Maharaja Surajmal Institute, Delhi, with a fo
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 
+## 🌐 Portfolio
+Check out my portfolio to see the projects I've worked on and my development journey!  
+[Portfolio Website](https://portfolio-site-psi-seven-78.vercel.app/) 
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-sharma-b9932933b/utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hsharma4090?t=dJ_uANhDXV08yaL8wwNEtA&s=09) 
