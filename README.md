@@ -1,10 +1,10 @@
 # Hi there 👋. Welcome to my profile.
 
-## 🚀 About Me
+##  About Me
 
 I'm Harsh Sharma, a BCA student at Maharaja Surajmal Institute, Delhi, with a focus on Web Development. I'm passionate about building efficient, user-friendly applications and love exploring new technologies. Eager to learn, grow, and collaborate on impactful projects in web development.
 
-## 🛠️ Tech Stacks
+##  Tech Stacks
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -36,11 +36,11 @@ I'm Harsh Sharma, a BCA student at Maharaja Surajmal Institute, Delhi, with a fo
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 
-## 🌐 Portfolio
+##  Portfolio
 Check out my portfolio to see the projects I've worked on and my development journey!  
 [Portfolio Website](https://portfolio-site-psi-seven-78.vercel.app/) 
 
-## 📫 Connect with Me  
+##  Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-sharma-b9932933b/utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hsharma4090?t=dJ_uANhDXV08yaL8wwNEtA&s=09) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsharma4090@gmail.com)  
